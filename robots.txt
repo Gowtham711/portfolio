@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gowtham711.github.io/portfolio1/sitemap.xml
